@@ -1,4 +1,5 @@
 This project is using ReactJS to fetch images from PIXABAY
+preview : https://pixibay-gallery.vercel.app/
 
  following modules are used:
 react-router
